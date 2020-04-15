@@ -1,2 +1,3 @@
 # 1371841498.github.io
-just another repository
+欢迎来到鲁园的世界
+这是我的第一个个人博客
